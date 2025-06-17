@@ -5,7 +5,7 @@ pymem==1.14.0
 zstandard~=0.23.0
 pillow==11.0.0
 google==3.0.0
-protobuf==4.25.1
+protobuf==4.25.8
 soupsieve==2.5
 lz4~=4.3.3
 requests~=2.32.3
